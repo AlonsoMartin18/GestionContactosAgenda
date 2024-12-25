@@ -1,0 +1,17 @@
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\Entity.dll
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\Mapper.dll
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\Entity.pdb
+C:\Users\hory_\source\repos\PL\DAL\bin\Debug\net8.0\Mapper.pdb
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\hory_\source\repos\PL\DAL\obj\Debug\net8.0\ref\DAL.dll

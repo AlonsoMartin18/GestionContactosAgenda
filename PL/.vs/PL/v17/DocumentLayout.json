@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{521EEEF2-61AF-49BF-8538-69E6AC71F33E}|PL\\PL.csproj|C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\pl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{521EEEF2-61AF-49BF-8538-69E6AC71F33E}|PL\\PL.csproj|solutionrelative:pl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521EEEF2-61AF-49BF-8538-69E6AC71F33E}|PL\\PL.csproj|c:\\users\\martin\\desktop\\repos-github\\pl\\pl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521EEEF2-61AF-49BF-8538-69E6AC71F33E}|PL\\PL.csproj|solutionrelative:pl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E5F955-0C10-4157-8FEA-D74FB91C0E72}|DAL\\DAL.csproj|c:\\users\\martin\\desktop\\repos-github\\pl\\dal\\contactodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E5F955-0C10-4157-8FEA-D74FB91C0E72}|DAL\\DAL.csproj|solutionrelative:dal\\contactodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E23797-067A-4A53-AF1C-27BD98D9584F}|BLL\\BLL.csproj|c:\\users\\martin\\desktop\\repos-github\\pl\\bll\\contactobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E23797-067A-4A53-AF1C-27BD98D9584F}|BLL\\BLL.csproj|solutionrelative:bll\\contactobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\BLL\\ContactoBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ContactoBLL.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\BLL\\ContactoBLL.cs",
+              "RelativeToolTip": "BLL\\ContactoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:15:32.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\PL\\Form1.cs",
+              "RelativeDocumentMoniker": "PL\\Form1.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\PL\\Form1.cs",
+              "RelativeToolTip": "PL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:08:19.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\PL\\Form1.cs",
+              "RelativeDocumentMoniker": "PL\\Form1.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\PL\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PL\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:33:36.992Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\DAL\\ContactoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ContactoDAL.cs",
+              "ToolTip": "C:\\Users\\martin\\Desktop\\REPOS-GITHUB\\PL\\DAL\\ContactoDAL.cs",
+              "RelativeToolTip": "DAL\\ContactoDAL.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:19:24.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
